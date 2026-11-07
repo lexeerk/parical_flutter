@@ -1,0 +1,1 @@
+void abrirGoogle(String consulta) {}
